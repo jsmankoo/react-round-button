@@ -21,7 +21,7 @@ just copy over App.js into your src directory rename it and use it.
 you can give it anything. I prefer a(href={url}): i.fa, along with some styling.
 
 ## open
-![open]('./open.png')
+![open](https://raw.githubusercontent.com/jsmankoo/react-round-button/master/open.png)
 
 ## closed
-![closed]('./closed.png')
+![closed](https://raw.githubusercontent.com/jsmankoo/react-round-button/master/closed.png)
