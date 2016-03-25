@@ -18,4 +18,4 @@ just copy over App.js into your src directory rename it and use it.
 * speed: 50
 
 ##children
-you can give it anything. I prefer <a href={url} ><i className='fa' /> </a>/, along with some styling.
+you can give it anything. I prefer a(href={url}): i.fa, along with some styling.
