@@ -19,3 +19,9 @@ just copy over App.js into your src directory rename it and use it.
 
 ##children
 you can give it anything. I prefer a(href={url}): i.fa, along with some styling.
+
+## open
+![open]('./open.png')
+
+## closed
+![closed]('./closed.png')
